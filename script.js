@@ -2,16 +2,16 @@ let cart = [];
 let totalPrice = 0;
 
 const prices = {
-    "Beras": 12000,
-    "Gula": 15000,
-    "Minyak Goreng": 14000,
-    "Tepung Terigu": 9000,
-    "Susu": 18000,
-    "Kopi": 10000,
-    "Teh": 5000,
-    "Mie Instan": 2500,
-    "Telur": 2000,
-    "Garam": 3000
+    "Malboro": 21000,
+    "Envio": 19000,
+    "Camel": 17000,
+    "Sampoerna": 30000,
+    "Evo": 18000,
+    "Filter": 10000,
+    "Rokok Herbal": 25000,
+    "Berry Pop": 25000,
+    "Twizz": 20000,
+    "Juara": 20000,
 };
 
 function updatePrice() {
